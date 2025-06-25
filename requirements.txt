@@ -1,0 +1,17 @@
+# Core LangChain and LangGraph for agent logic and memory
+langgraph[sqlite]
+langchain
+langchain-openai
+
+# Community and experimental packages for tools
+langchain-community
+langchain-experimental
+tavily-python
+
+# FastAPI for creating the web server API
+fastapi
+uvicorn
+
+# Utilities for data validation and environment variables
+pydantic
+python-dotenv
