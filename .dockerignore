@@ -1,0 +1,21 @@
+# Git files
+.git
+.gitignore
+
+# Docker files
+Dockerfile
+.dockerignore
+
+# Environment variables (NEVER include these in an image)
+.env
+
+# VS Code settings
+.vscode/
+
+# Python cache
+__pycache__
+*.pyc
+
+# Local databases
+*.sqlite
+*.sqlite3
